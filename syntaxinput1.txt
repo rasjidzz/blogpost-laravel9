@@ -1,0 +1,51 @@
+Post::create([ 'title' => 'dasar-pemrograman-php', 'category_id' => 1 'slug' =>
+'dasar-pemrograman-java', 'excerpt' => 'Lorem ipsum pertama', 'body' => '
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repudiandae
+    voluptatibus iusto possimus. Modi, illum impedit totam consequatur
+    accusantium sapiente facere error omnis. Quod quisquam sapiente dolorum
+    facilis iusto molestias quas eligendi, ipsum vitae ea possimus repellendus
+    veniam, ad similique itaque quidem ex voluptatum, inventore temporibus optio
+    suscipit.
+</p>
+<p>
+    Minima amet quod hic aut eius officia assumenda magnam impedit iusto sit non
+    ex cum veniam incidunt perspiciatis quaerat, nisi sunt id, minus nulla
+    facilis accusamus vitae.
+</p>
+' ]); Category::create([ 'name' => 'Personal', 'slug' => 'personal' ]);
+
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat repudiandae
+    voluptatibus iusto possimus. Modi, illum impedit totam consequatur
+    accusantium sapiente facere error omnis. Quod quisquam sapiente dolorum
+    facilis iusto molestias quas eligendi, ipsum vitae ea possimus repellendus
+    veniam, ad similique itaque quidem ex voluptatum, inventore temporibus optio
+    suscipit.
+</p>
+<p>
+    Minima amet quod hic aut eius officia assumenda magnam impedit iusto sit non
+    ex cum veniam incidunt perspiciatis quaerat, nisi sunt id, minus nulla
+    facilis accusamus vitae. Neque facere autem dolorem, maiores cumque
+    repudiandae rerum, voluptatem numquam accusamus aspernatur vero distinctio,
+    similique veritatis molestias provident iure laborum perspiciatis blanditiis
+    ducimus dicta ipsam quod minus odio officiis?
+</p>
+<p>
+    Cumque dolorem nihil nemo ad repellendus qui nesciunt ab dolor
+    exercitationem explicabo nam saepe fugiat sunt officiis eaque, similique
+    adipisci dicta ipsum mollitia vitae ut tenetur a! Nostrum repudiandae eos
+    harum maiores rem quisquam a sunt beatae consectetur perferendis! Alias
+    iusto nostrum quas, fugit adipisci veritatis.
+</p>
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed magni fuga
+molestias deleniti. Tempore nihil nisi, tenetur at earum velit illum dolor quasi
+dicta non eos amet fuga, perferendis voluptate? Temporibus dolores amet ea.
+Debitis doloribus quidem eligendi veritatis harum labore magni, pariatur
+cupiditate praesentium. Libero adipisci dolorem fugiat repellat unde ex
+excepturi neque nam non porro, nostrum enim velit accusamus iure fuga! Explicabo
+tenetur officiis repellat illo maiores fugit dolore eius recusandae libero
+expedita nobis, voluptate sit eaque vero veniam quam quisquam cupiditate iure
+consequuntur. Maiores, ad! Culpa velit maxime impedit excepturi facere nesciunt
+autem alias aperiam rem deserunt?
