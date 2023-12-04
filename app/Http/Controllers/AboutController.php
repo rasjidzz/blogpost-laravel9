@@ -12,7 +12,6 @@ class AboutController extends Controller
             "title" => "About",
             "name" => "Muhammad Risjad Shidqi Febian",
             "email" => "mrisjads@gmail.com",
-            'active' => 'about',
             "image" => "risjad.jpg"
         ]);
     }

@@ -30,10 +30,10 @@ class PostController extends Controller
 
     public function show(Post $post)
     {
-        return view('post', [
+        $data = [
             "title" => "Single Post",
-            'active' => 'posts',
             "post" => $post
-        ]);
+        ];
+        return view('post', $data);
     }
 }

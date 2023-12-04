@@ -8,9 +8,9 @@ class HomeController extends Controller
 {
     public function index()
     {
-        return view('home', [
-            "title" => "Home",
-            'active' => 'home'
-        ]);
+        $data = [
+            'title' => 'Home',
+        ];
+        return view('home', $data);
     }
 }
